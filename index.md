@@ -1,4 +1,8 @@
 ## Human Hair Segmentation In The Wild Using Deep Shape Prior
+Yongzhe Yan <sup>1,2</sup> , Anthony Berthelier <sup>1,2</sup> , Stefan Duffner <sup>3</sup> , Xavier Naturel <sup>2</sup> , Christophe Garcia <sup>3</sup> , Thierry Chateau <sup>1</sup>
+<sup>1</sup>Université Clermont Auvergne <sup>2</sup>Wisimage <sup>3</sup>LIRIS
+Presented at the Third Workshop on CV4ARVR, CVPR 2019, Long Beach
+
 
 ### Abstract
 
