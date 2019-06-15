@@ -3,6 +3,7 @@
 <sup>1</sup>Université Clermont Auvergne     <sup>2</sup>Wisimage      <sup>3</sup>LIRIS <br>
 Presented at the Third Workshop on CV4ARVR, CVPR 2019, Long Beach <br>
 
+[**Paper Link**](http://mixedreality.cs.cornell.edu/s/23_CVPRW_hair_segmentation.pdf) [**Additional Visual Results**](/CVPRW_supp.pdf) <br>
 
 ### Abstract
 
