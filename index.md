@@ -3,7 +3,7 @@
 <sup>1</sup>Université Clermont Auvergne     <sup>2</sup>Wisimage      <sup>3</sup>LIRIS <br>
 Presented at the Third Workshop on CV4ARVR, CVPR 2019, Long Beach <br>
 
-[**Paper Link**](http://mixedreality.cs.cornell.edu/s/23_CVPRW_hair_segmentation.pdf) and [**Additional Visual Results**](/CVPRW_supp.pdf) <br>
+####[**Paper Link**](http://mixedreality.cs.cornell.edu/s/23_CVPRW_hair_segmentation.pdf), [**Additional Visual Results**](/CVPRW_supp.pdf), [**Poster**](/Poster_Human Hair Segmentation In The Wild Using Deep Shape Prior.pdf	) and [**Explainer Video**](/3275C6A4-DF45-47E3-9815-2C7BCD647918_TvrnCdSh_P4H9 (online-video-cutter.com).mp4)<br>
 
 ### Abstract
 
