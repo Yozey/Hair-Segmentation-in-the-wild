@@ -19,3 +19,8 @@ Virtual human hair dying is becoming a popular Augmented Reality (AR) applicatio
 * We propose to construct a **shape prior** to constrain and guide the hair segmentation.
 
 ![Structure](/CVPRW_overall.svg)
+
+
+### Our Results
+
+Our method is effective for removing false positives on the background.
