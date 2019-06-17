@@ -15,7 +15,7 @@ Virtual human hair dying is becoming a popular Augmented Reality (AR) applicatio
 
 ### Challenge
 * **Human Hair Segmentation In The Wild:** Perform hair segmentation in an unconstrained view without any explicit prior face/head-shoulder detection.
-* **A problem in practical application:** Cluttered Background disturbs deep CNN segmentation especially when the dataset is small, which brings spurious detections.
+* **A problem in practical application:** Cluttered Background disturbs deep CNN segmentation especially when the dataset is small, which brings **spurious detections** such as:
 
 ![Spurious Detection](/Spurious.png){:height="70%" width="70%"}
 
