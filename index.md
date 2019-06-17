@@ -28,4 +28,5 @@ Virtual human hair dying is becoming a popular Augmented Reality (AR) applicatio
 ### Our Results
 
 Our method is effective for **removing the false positive detection** on the cluttered background.
+
 ![Results](/Result_LFW.png)
